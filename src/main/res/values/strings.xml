@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Module 201 - Project 1</string>
+    <string name="enter_a_temperature">Enter a temperature</string>
+    <string name="space" />
+    <string name="select_a_unit">Select a unit</string>
+    <string name="c">°C</string>
+    <string name="f">°F</string>
+    <string name="k">K</string>
+    <string name="equals_to">Equals to</string>Space
+</resources>
